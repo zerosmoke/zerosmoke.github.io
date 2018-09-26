@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "My Site",
+    "name": "ZeroSmoke",
     "currentPage": "page6.html",
     "theme": {
       "name": "mobirise4",
@@ -67,7 +67,9 @@
     "versionFirst": "4.7.6",
     "uniqCompNum": 71,
     "versionPublish": "4.8.1",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "favicon": "",
+    "noImageResize": ""
   },
   "pages": {
     "index.html": {
